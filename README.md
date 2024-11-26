@@ -17,4 +17,6 @@ based on :
 ### 003 - Nand to Tetris (with a twist)
 ### 004 - Chip-8 
 (again) but with a GUI this time
-### 005 - 
+### 005 - Solitaire C/Python Tkinter
+### 006 - Royal Game of Ur (Unity)
+### 007 - Paint clone in python Tkinter
