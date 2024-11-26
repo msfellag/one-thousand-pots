@@ -4,7 +4,9 @@
 /pots : folder containing each tiny-project
 
 ## intro
-focus on quantity over quality ?
+`focus on quantity over quality`
+
+![Cover](cover.jpg)
 
 ## index
 
